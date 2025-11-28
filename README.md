@@ -38,6 +38,14 @@ agentkit/
 └── examples/               # Example agents
 ```
 
+## Documentation
+
+- [Getting Started](./packages/docs/getting-started.md)
+- [Project Structure](./packages/docs/project-structure.md)
+- [Agent Configuration](./packages/docs/agent-configuration.md)
+- [Tools](./packages/docs/tools.md)
+- [Prompts](./packages/docs/prompts.md)
+
 ## Status
 
 🚧 **Early Development** - This framework is in active design and development.
